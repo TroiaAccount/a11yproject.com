@@ -677,6 +677,17 @@
 			]
 		},
 		{
+			"title": "Pandus Accessibility and SEO Checker",
+			"description": "Runs axe-core on the current page and explains every problem in plain language in seven languages, with the WCAG 2.2 and EN 301 549 reference and fix instructions for common shop platforms. No account needed.",
+			"additional": "Pandus",
+			"url": "https://chromewebstore.google.com/detail/pandus-accessibility-and/oplhpiaacmpenolhmejmoikdielfakjn",
+			"browsers": [
+				"Chrome",
+				"Edge",
+				"Firefox"
+			]
+		},
+		{
 			"title": "Silktide Accessibility Checker",
 			"description": "Test your website against over 200 website accessibility checks with Silktide’s easy to understand accessibility checker.",
 			"additional": "Silktide Ltd.",
@@ -808,7 +819,7 @@
 			"additional": "Protean Studio",
 			"url": "https://contrast.tools"
 		},
-    {
+		{
 			"title": "Hex Naw",
 			"description": "Hex Naw is a tool that helps designers and developers test entire color systems for contrast and accessibility. Plug in your palette or color system and let Hex Naw do the rest.",
 			"additional": "The Scenery",
@@ -1268,6 +1279,12 @@
 			"description": "Pa11y is your automated accessibility testing pal.",
 			"additional": "Pa11y",
 			"url": "http://pa11y.org/"
+		},
+		{
+			"title": "Pandus SDK and MCP server",
+			"description": "Open-source TypeScript SDK and a remote MCP server for AI assistants. Explains any axe-core rule or WCAG 2.2 success criterion with fixes for code, Shopify, WooCommerce, PrestaShop and Shoptet without a key; with a Pandus account it runs checks and reads reports from scripts and CI.",
+			"additional": "Pandus",
+			"url": "https://github.com/Pandus-Online/Pandus-SDK"
 		},
 		{
 			"title": "Polypane",
